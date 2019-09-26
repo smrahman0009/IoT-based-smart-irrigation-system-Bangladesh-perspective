@@ -1,0 +1,174 @@
+/* tags */
+body{
+    background-image: url("img/cesar-couto-423266-unsplash.jpg");
+    background-size: cover;
+
+}
+
+h4, h5, h3, label{
+    font-family: 'Roboto Mono', monospace;
+    /*font-family: 'Roboto Slab', serif;*/
+    margin-left: 30px;
+}
+
+body h1{
+    /*font-family: Helvetica;*/
+    font-family: 'Roboto Slab', serif;
+    color: black;
+    font-weight: bold;
+}
+
+p img{
+    vertical-align: middle;
+    height: 40px;
+    width: 40px;
+}
+
+h5 span{
+    margin-top: 20px;
+}
+
+
+
+/* class */
+.footer{
+    background:#a12de6;
+    width:100%;
+    margin: auto;
+}
+
+.center { 
+    height: 280px;
+    width: 820px;
+    background: #acb1b9;
+    box-shadow: 0 4px 8px 0 rgba(0, 100, 200, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: auto;
+    padding-top: 20px;
+
+}
+
+.center3{
+    height: 300px;
+    width: 820px;
+    background: #acb1b9;
+    box-shadow: 0 4px 8px 0 rgba(0, 100, 200, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: auto;
+}
+
+.center_f{
+    height: 80px;
+    width: 820px;
+    background: #acb1b9;
+    box-shadow: 0 4px 8px 0 rgba(0, 100, 200, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: auto;
+}
+
+.center_f2{
+    height: 80px;
+    width: 820px;
+    background: #acb1b9;
+    box-shadow: 0 4px 8px 0 rgba(0, 100, 200, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: auto;
+    
+}
+
+
+.ip{
+    background-color: #ffffff; /* Green */
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+}
+
+.bg-info{
+    font-weight: bold;
+}
+
+.toLeft{
+    margin-left: 30px;
+    float: left;
+    padding-right: 0px;
+    /*border-right: 4px solid gray;*/
+}
+
+.toLeft2{
+    margin-left: 40px;
+    float: left;
+    padding-right: 5px;
+    padding-left: 40px;
+    margin-top: 15px;
+    border-left: 4px solid gray;
+
+}
+
+.toLeft3{
+    margin-left: 20px;
+    margin-right: 0px;
+    float: left;
+    padding-right: 40px;
+    border-right: 4px solid gray;
+}
+
+.toLeft4{
+    margin-left: 10px;
+    float: left;
+    padding-right: 5px;
+    padding-left: 0px;
+    margin-top: 15px;
+    /*border-left: 4px solid gray;*/
+
+}
+
+.toRight{
+    margin-right: 30px;
+    padding-left: 0px;
+    float: right;
+}
+
+.bangla{
+    font-family: 'AdorshoLipi', sans-serif;
+}
+
+
+/*.div1{*/
+    
+/*}*/
+
+/* id */
+#auto_mode{
+    margin-top: 30px;
+}
+
+#ref_btn{
+    float: right;
+    margin-right: 15px;
+    margin-top: 15px;
+    /*opacity: .8;*/
+}
+
+#mos{
+    /*line-height: 40px;*/
+    font-family: Helvetica;
+    color: #ffffff;
+    font-size: 40px;
+}
+
+#table1{
+    width: 800px;
+    /*height: 100px;*/
+    overflow: auto;
+    text-align: center;
+    background-color: #bbbbbb;
+    box-shadow: 0 4px 8px 0 rgba(0, 100, 200, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#turnManual{
+    width: 50px;
+    
+}

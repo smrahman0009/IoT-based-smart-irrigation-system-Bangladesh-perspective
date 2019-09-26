@@ -1,0 +1,11 @@
+
+<!-- define('DB_USER', "id9344179_smartfive");     // Your database user name
+define('DB_PASSWORD', "smartfive999");			// Your database password (mention your db password here)
+define('DB_DATABASE', "id9344179_smartirrigation"); // Your database name
+define('DB_SERVER', "localhost");	 -->
+
+smart thanos
+database    id9184002_arduino
+user        id9184002_root
+password    12345
+server      localhost
