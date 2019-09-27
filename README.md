@@ -2,3 +2,5 @@ IoT based smart irrigation system Bangladesh-perspective project is targeted to 
 
 ![home page](https://github.com/smrahman0009/IoT-based-smart-irrigation-system-Bangladesh-perspective/blob/master/screen%20shots/home.jpg)
 
+![all data](https://github.com/smrahman0009/IoT-based-smart-irrigation-system-Bangladesh-perspective/blob/master/screen%20shots/home.png)
+
